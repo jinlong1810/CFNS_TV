@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sync version="1.0" name="Simple Networking">
+  <meta>
+    <client>
+      <limitStorageSpace>False</limitStorageSpace>
+      <base>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P</base>
+      <next>/current-sync.xml</next>
+      <event>EVENT</event>
+      <error>ERROR</error>
+      <deviceerror>DEVICEERROR</deviceerror>
+      <uploadusage>UPLOADUSAGE</uploadusage>
+      <getfile>GETFILE</getfile>
+      <uploadlogs />
+      <uploadsnapshots />
+      <timeBetweenNetConnects>300</timeBetweenNetConnects>
+      <contentDownloadsRestricted>no</contentDownloadsRestricted>
+      <playbackLoggingEnabled>no</playbackLoggingEnabled>
+      <eventLoggingEnabled>no</eventLoggingEnabled>
+      <diagnosticLoggingEnabled>no</diagnosticLoggingEnabled>
+      <stateLoggingEnabled>no</stateLoggingEnabled>
+      <variableLoggingEnabled>no</variableLoggingEnabled>
+      <uploadLogFilesAtBoot>no</uploadLogFilesAtBoot>
+      <uploadLogFilesAtSpecificTime>no</uploadLogFilesAtSpecificTime>
+      <uploadLogFilesTime>0</uploadLogFilesTime>
+      <enableSerialDebugging>True</enableSerialDebugging>
+      <enableSystemLogDebugging>False</enableSystemLogDebugging>
+      <deviceScreenShotsEnabled>no</deviceScreenShotsEnabled>
+    </client>
+    <server>
+      <account>ACCOUNT</account>
+      <user />
+      <password />
+      <enableUnsafeAuthentication>False</enableUnsafeAuthentication>
+      <group>GROUPNAME</group>
+    </server>
+  </meta>
+  <files>
+    <download>
+      <name>autoplay-CFNS_dir_seminar.xml</name>
+      <hash method="SHA1">01310a28bc44302b69bc64bf49ecadbe45983226</hash>
+      <size>15305</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/2/6/sha1-01310a28bc44302b69bc64bf49ecadbe45983226</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>CFNS_dir_seminar.bml</name>
+      <hash method="SHA1">22fb977d9aa8691c791798f0aedd5a3550a3f083</hash>
+      <size>12971</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/8/3/sha1-22fb977d9aa8691c791798f0aedd5a3550a3f083</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>CFNS_DIRECTORY_a.jpg</name>
+      <hash method="SHA1">6a68f95b48a952e2bf12e9328918763a00b4959f</hash>
+      <size>164668</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/9/f/sha1-6a68f95b48a952e2bf12e9328918763a00b4959f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>conference.jpg</name>
+      <hash method="SHA1">3cd44c109ba25f305cfc5dfa8349570f1a45f91d</hash>
+      <size>107013</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/1/d/sha1-3cd44c109ba25f305cfc5dfa8349570f1a45f91d</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>cfns_wallpaper.jpg</name>
+      <hash method="SHA1">b0ecebbba676b5f02dd6f4f7876180c4fc26010f</hash>
+      <size>299481</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/0/f/sha1-b0ecebbba676b5f02dd6f4f7876180c4fc26010f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-404.html</name>
+      <hash method="SHA1">740fc96551a29aba076ff447fd3f8973c688e2d7</hash>
+      <size>3393</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/d/7/sha1-740fc96551a29aba076ff447fd3f8973c688e2d7</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-bas.html</name>
+      <hash method="SHA1">8899e2dbe1a4b7399b9a18fa21830d2d1934ec48</hash>
+      <size>878</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/4/8/sha1-8899e2dbe1a4b7399b9a18fa21830d2d1934ec48</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-favicon.ico</name>
+      <hash method="SHA1">a1bae6f0516a56cf140aa7177e9559418fe8f85e</hash>
+      <size>1150</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/5/e/sha1-a1bae6f0516a56cf140aa7177e9559418fe8f85e</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-index.html</name>
+      <hash method="SHA1">87d1eb6a86ba28bfa8008f10be7136fb0ed15e0c</hash>
+      <size>201</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/0/c/sha1-87d1eb6a86ba28bfa8008f10be7136fb0ed15e0c</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-robots.txt</name>
+      <hash method="SHA1">3ab05768bd908347af276df97617571b5f950c28</hash>
+      <size>31</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/2/8/sha1-3ab05768bd908347af276df97617571b5f950c28</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.eot</name>
+      <hash method="SHA1">f3a9a3b609133c3d21d6b42abbf7f43bd111df72</hash>
+      <size>20335</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/7/2/sha1-f3a9a3b609133c3d21d6b42abbf7f43bd111df72</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.svg</name>
+      <hash method="SHA1">66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa</hash>
+      <size>62926</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/f/a/sha1-66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.ttf</name>
+      <hash method="SHA1">aafafdc09404c4aa4447d7e898a2183def9cc1b1</hash>
+      <size>41280</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/b/1/sha1-aafafdc09404c4aa4447d7e898a2183def9cc1b1</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.woff</name>
+      <hash method="SHA1">22037a3455914e5662fa51a596677bdb329e2c5c</hash>
+      <size>23320</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/5/c/sha1-22037a3455914e5662fa51a596677bdb329e2c5c</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/landing/landing.html</name>
+      <hash method="SHA1">f71be1e9fc8dc38cadb5e3cbf8fcad4f7368a9e0</hash>
+      <size>886</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/e/0/sha1-f71be1e9fc8dc38cadb5e3cbf8fcad4f7368a9e0</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/remote-snapshot/configure-snapshots.html</name>
+      <hash method="SHA1">19aebb30bc487d5ce7b7ff009d6e2f1746dddcfe</hash>
+      <size>4216</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/f/e/sha1-19aebb30bc487d5ce7b7ff009d6e2f1746dddcfe</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/remote-snapshot/view-snapshots.html</name>
+      <hash method="SHA1">1bfae55189a796ae5b6daa90e56c09534312b251</hash>
+      <size>2243</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/5/1/sha1-1bfae55189a796ae5b6daa90e56c09534312b251</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-images/bg_main_background.ec008440.png</name>
+      <hash method="SHA1">af0bc48cf35bfaee4f21f99a8e48594fa514ee8f</hash>
+      <size>98</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/8/f/sha1-af0bc48cf35bfaee4f21f99a8e48594fa514ee8f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-images/bs-logo.558b3252.png</name>
+      <hash method="SHA1">19240f186609ea1cbf728c3687f75e1bcb977987</hash>
+      <size>2914</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/8/7/sha1-19240f186609ea1cbf728c3687f75e1bcb977987</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/brightsign.087c41eb.js</name>
+      <hash method="SHA1">fa1157d9899362291d7f289aa53bc7ef54c0fd50</hash>
+      <size>8261</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/5/0/sha1-fa1157d9899362291d7f289aa53bc7ef54c0fd50</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/oldieshim.76f279db.js</name>
+      <hash method="SHA1">370f5dbee879aaad2c37b589123017530e064487</hash>
+      <size>20978</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/8/7/sha1-370f5dbee879aaad2c37b589123017530e064487</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/vendor.93fc20a3.js</name>
+      <hash method="SHA1">1a7e3e7ff6c2ee0da3867f29173da34d18b6e4d7</hash>
+      <size>329963</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/d/7/sha1-1a7e3e7ff6c2ee0da3867f29173da34d18b6e4d7</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-styles/brightsign.1ea7f101.css</name>
+      <hash method="SHA1">41989e2ff79dd7bd1b294cb382e654c234a38b46</hash>
+      <size>1276</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/4/6/sha1-41989e2ff79dd7bd1b294cb382e654c234a38b46</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-styles/vendor.51dd6dba.css</name>
+      <hash method="SHA1">e0ed151874827272f4caadbdcf45f82075472bcb</hash>
+      <size>132555</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/c/b/sha1-e0ed151874827272f4caadbdcf45f82075472bcb</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autorun.brs</name>
+      <hash method="SHA1">3b340298765be83a3e021a5f3baee7b5e1dddb38</hash>
+      <size>1165756</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/3/8/sha1-3b340298765be83a3e021a5f3baee7b5e1dddb38</link>
+      <group>script</group>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autoschedule.xml</name>
+      <hash method="SHA1">ab21114b1a3d156c6eb99de087f27f82cd63db8a</hash>
+      <size>976</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/8/a/sha1-ab21114b1a3d156c6eb99de087f27f82cd63db8a</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>resources.txt</name>
+      <hash method="SHA1">123580d24f72d21dbb92628f94e64a43ac0e69c1</hash>
+      <size>2299</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/c/1/sha1-123580d24f72d21dbb92628f94e64a43ac0e69c1</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autoplugins.brs</name>
+      <hash method="SHA1">a0acb3e76c85e48d326e802428b23f0325667410</hash>
+      <size>146</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/1/0/sha1-a0acb3e76c85e48d326e802428b23f0325667410</link>
+      <group>script</group>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>_deviceWebPage.html</name>
+      <hash method="SHA1">f84cf1a0d4351bdc4c2072ebe8c21b1550da9962</hash>
+      <size>116305</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/6/2/sha1-f84cf1a0d4351bdc4c2072ebe8c21b1550da9962</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>_deviceIdWebPage.html</name>
+      <hash method="SHA1">434f8868b3edca30e3bb0ca76e5042c8e83f0588</hash>
+      <size>117293</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/8/8/sha1-434f8868b3edca30e3bb0ca76e5042c8e83f0588</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>featureMinRevs.xml</name>
+      <hash method="SHA1">c5a7f8e428e8e08c46d324126f9101dd4e27c42d</hash>
+      <size>1311</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/2/d/sha1-c5a7f8e428e8e08c46d324126f9101dd4e27c42d</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BoseProducts.xml</name>
+      <hash method="SHA1">65921129654c5b149d4d370e41aa8713af01d1ee</hash>
+      <size>14990</size>
+      <link>https://drive.google.com/drive/folders/10LvjijvJc97FgXrNe53djED-A7LGUs5P/pool/e/e/sha1-65921129654c5b149d4d370e41aa8713af01d1ee</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <delete>
+      <pattern>*.brs</pattern>
+    </delete>
+    <delete>
+      <pattern>*.rok</pattern>
+    </delete>
+    <delete>
+      <pattern>*.bsfw</pattern>
+    </delete>
+    <ignore>
+      <pattern>*</pattern>
+    </ignore>
+  </files>
+</sync>
